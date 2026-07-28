@@ -1,6 +1,4 @@
-## Hi there 👋
-readme-typing-svg | skillicons.dev | github-readme-stats | shields.io
- <h1 align="center">Hi 👋, I'm Jothika</h1>
+<h1 align="center">Hi 👋, I'm Jothika</h1>
 <h3 align="center">B.Tech Information Technology Student | Learning Java </h3>
 
 <p align="center">
