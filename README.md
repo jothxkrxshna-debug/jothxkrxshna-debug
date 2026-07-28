@@ -4,7 +4,7 @@ Step 2: Select Add README.md while creating repository.
 Step 3: Open README and click Edit.
 Step 4: Use a premium structure and customize using ChatGPT.
 Recommended Structure
-* Intro Section (Hi, I'm Your Name)
+* Intro Section (Hi, I'm Jothika)
 * Typing Animation Banner
 * About Me Section
 * Portfolio + LinkedIn badges
