@@ -1,13 +1,10 @@
 ## Hi there 👋
-  ( I'm Jothika)
-* Portfolio + LinkedIn badges
-
 readme-typing-svg | skillicons.dev | github-readme-stats | shields.io
  <h1 align="center">Hi 👋, I'm Jothika</h1>
 <h3 align="center">B.Tech Information Technology Student | Learning Java </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;IT+Student;Learning Data Science+;Always+Learning+New+Technologies" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&color=36BCF7&center=true&vCenter=true&width=600&lines=Java+Developer;IT+Student;Learning+Data Science;Always+Learning+New+Technologies" />
 </p>
 
 ---
