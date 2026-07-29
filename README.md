@@ -28,7 +28,7 @@
 
 ## 🚀 Current Projects
 
-- 📚 Student Management System (Java)
+- 📚 Built Website 
 - 💻 Java Console Applications
 - 🔥 Learning GitHub Projects
 
